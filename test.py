@@ -30,4 +30,3 @@ while 1:
 
 
 print("teacher is suck")
-print("88888888")
