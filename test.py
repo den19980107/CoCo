@@ -30,3 +30,4 @@ while 1:
 
 
 print("teacher is suck")
+qpwelqpwlepqwleqlwe
