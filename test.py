@@ -1,4 +1,4 @@
-
+﻿
 while 1:
     n = int(input())
     input1 =[]
@@ -28,4 +28,9 @@ while 1:
                 newArray[row][col] = int(array[row][col])+int(array[row+1][col+1])
     print(newArray)
 
+    print(newArray)
+    print(newArray)
+    print(newArray)
+    print(newArray)
+    print(newArray)
 
