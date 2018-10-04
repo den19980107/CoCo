@@ -1,4 +1,4 @@
-
+﻿
 while 1:
     n = int(input())
     input1 =[]
@@ -30,3 +30,6 @@ while 1:
 
 
 print("teacher is suck")
+print("teacher is suck")
+print("teacher is suck")
+
