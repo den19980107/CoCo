@@ -29,7 +29,4 @@ while 1:
     print(newArray)
 
 
-print("teacher is suck")
-print("teacher is suck")
-print("teacher is suck")
 
