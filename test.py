@@ -1,4 +1,4 @@
-﻿
+
 while 1:
     n = int(input())
     input1 =[]
@@ -29,9 +29,3 @@ while 1:
     print(newArray)
 
 
-<<<<<<< HEAD
-
-=======
-print("teacher is suck")
-qpwelqpwlepqwleqlwe
->>>>>>> e21e44639254650e9a9c8179680b3b25987728b3
