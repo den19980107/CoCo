@@ -27,3 +27,6 @@ while 1:
             else:
                 newArray[row][col] = int(array[row][col])+int(array[row+1][col+1])
     print(newArray)
+
+
+print("teacher is suck")
